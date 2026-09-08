@@ -1,6 +1,6 @@
 {
   "../../Codex/2026-09-03/github-plugin-github-openai-curated-remote/work/site/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "_next/static/chunks/app-route-prefetch-policy-kCrJ9Umj.js",
+    "file": "_next/static/chunks/app-route-prefetch-policy-CffeVfy7.js",
     "name": "app-route-prefetch-policy",
     "src": "../../Codex/2026-09-03/github-plugin-github-openai-curated-remote/work/site/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -9,7 +9,7 @@
     ]
   },
   "../../Codex/2026-09-03/github-plugin-github-openai-curated-remote/work/site/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-TIYa399N.js",
+    "file": "_next/static/chunks/layout-segment-context-CD7GPSpV.js",
     "name": "layout-segment-context",
     "src": "../../Codex/2026-09-03/github-plugin-github-openai-curated-remote/work/site/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -41,7 +41,7 @@
     "name": "rolldown-runtime"
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-KNqX11aA.js",
+    "file": "_next/static/chunks/index-De_72zSX.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
